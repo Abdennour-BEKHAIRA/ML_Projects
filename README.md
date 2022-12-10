@@ -7,4 +7,4 @@ PS: feel free to reach me for explanation or suggesting ML_problems .
 
 /*/ Churn is a major problem for most companies, so the Churn prediction project is a tool to retain existing customers. as they say : " Losing customers requires gaining new customers to replace them. This could be around 10X more expensive than retaining existing customers !!! "
 
-/*/ i have used GAN's to implicitly model the shape space of plausible face images and synthesize a face image in this space to approximate an input sketch. 
+/*/ Generation of face images from sketches , i have used GAN's & CUHK database to implicitly model the shape space of plausible face images and synthesize a face image in this space to approximate an input sketch. 
